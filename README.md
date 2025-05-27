@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusGotardo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGotardo&layout=compact&show_icons=true&theme=radical)
+
 
 ##
 <div style="display: inline_block"><br>
